@@ -1,0 +1,49 @@
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+.featurette-divider {
+    margin: 4rem 0;
+}
+.featurette {
+    display: flex;
+    align-items: center;
+}
+.featurette-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    background-color: #fff;
+}
+iframe{
+    padding-bottom: 50px;
+}
+
+.registration-form {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.registration-form h1 {
+    margin-bottom: 20px;
+}
+.registration-form button {
+    width: 100%;
+    background-color: #17a2b8;
+    color: white;
+}
+.registration-form button:hover {
+    background-color: #138496;
+}
+.registration-form p {
+    text-align: center;
+}
